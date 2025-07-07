@@ -1,0 +1,20 @@
+nodes:
+  start:
+    next: behavioral
+  behavioral:
+    questions:
+      - Tell me about a time you handled conflict in a team.
+      - Describe a challenge you overcame at work.
+    next: technical
+  technical:
+    questions:
+      - Explain how merge sort works.
+      - What is the time complexity of quicksort?
+    next: system_design
+  system_design:
+    questions:
+      - Design a URL shortener like bit.ly.
+      - Architect a large-scale chat app.
+    next: end
+  end:
+    message: "Thank you for completing the interview."

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+*.log
+
+# Virtual environments
+venv/
+myenv/
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Docker
+*.db
+*.sqlite3
+docker-compose.override.yml
+# Build
+build/
+dist/
+
+# Logs
+*.log
+
+# Docker volumes (if you mount any volumes)
+data/
