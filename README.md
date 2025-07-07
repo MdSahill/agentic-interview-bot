@@ -26,8 +26,6 @@ cd agentic-interview-bot
 cp .env
 docker-compose up --build
 ```
-## 📹 Demo Video
-Link here
 
 ## 🤝 Team
 MD Sahil</br>
