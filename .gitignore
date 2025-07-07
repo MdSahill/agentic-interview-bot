@@ -31,3 +31,5 @@ dist/
 
 # Docker volumes (if you mount any volumes)
 data/
+
+temp.wav
