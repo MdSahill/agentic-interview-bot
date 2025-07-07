@@ -30,5 +30,5 @@ docker-compose up --build
 Link here
 
 ## 🤝 Team
-MD Sahil
-Sumit Kumar
+-MD Sahil
+-Sumit Kumar
