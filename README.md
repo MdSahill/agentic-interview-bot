@@ -21,7 +21,7 @@ A next-generation, agentic job interview simulator with adaptive questions, real
 ## ⚙️ Running Locally
 
 ```bash
-git clone <your-repo>
-cd <your-repo>
+git clone https://github.com/MdSahill/agentic-interview-bot.git
+cd agentic-interview-bot
 cp .env
 docker-compose up --build
