@@ -25,3 +25,10 @@ git clone https://github.com/MdSahill/agentic-interview-bot.git
 cd agentic-interview-bot
 cp .env
 docker-compose up --build
+```
+## 📹 Demo Video
+Link here
+
+## 🤝 Team
+MD Sahil
+Sumit Kumar
